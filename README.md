@@ -2,7 +2,7 @@
 
 A compact, production-oriented reference for running checkpointed LangGraph workflows behind FastAPI. The project focuses on the engineering concerns that become important when an agent grows beyond a single prompt: conditional routing, transient retries, human review, resumability, tool boundaries, and tenant isolation.
 
-> This is an independent reference implementation using deterministic local evidence. It contains no employer code, internal data, or production credentials.
+> A reproducible engineering reference built with deterministic local fixtures, so workflow behavior can be tested without external credentials.
 
 ## Why this repository exists
 
